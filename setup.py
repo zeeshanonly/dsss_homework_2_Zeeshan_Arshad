@@ -7,5 +7,5 @@ setup(
     author="Zeeshan",
     author_email="zeeshan.arshad@fau.de",
     packages=find_packages(),
-    install_requires=["math_quiz"],
+    install_requires=[],
 )
